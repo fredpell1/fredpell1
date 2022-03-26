@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+--- 
+
+I am a Mathematics and Computer Science student based in Montreal, Canada.
+
+I am interested in both the theoretical aspects of Computer Science, e.g., Machine Learning, Theory of Complexity, Design and Analysis of Algorithms
+and the practical aspects, e.g., Software Design and Programming Paradigms. 
+
+---
+
+**Current project:**
+
+- [NEAT algorithm for 2048](https://github.com/fredpell1/AI2048)
+
+
+--- 
+
+- 📫 How to reach me: frederic.pelletier@mail.concordia.ca
+- ⚡ Fun fact: I am a big football fan. Go Lions!
