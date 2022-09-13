@@ -25,7 +25,7 @@ and the practical aspects, e.g., Software Design and Programming Paradigms.
 
 **Current project:**
 
-- [NEAT algorithm for 2048](https://github.com/fredpell1/AI2048)
+- Back to school 
 
 
 --- 
