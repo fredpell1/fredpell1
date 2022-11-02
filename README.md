@@ -30,5 +30,5 @@ and the practical aspects, e.g., Software Design and Programming Paradigms.
 
 --- 
 
-- 📫 How to reach me: frederic.pelletier@mail.concordia.ca
+- 📫 How to reach me: fredericpelletier7@gmail.com
 - ⚡ Fun fact: I am a big football fan. Go Lions!
