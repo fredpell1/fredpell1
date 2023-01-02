@@ -25,7 +25,7 @@ and the practical aspects, e.g., Software Design and Programming Paradigms.
 
 **Current project:**
 
-- Back to school 
+- [Reinforcement learning for snake](https://github.com/fredpell1/snake-RL)
 
 
 --- 
