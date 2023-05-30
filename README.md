@@ -16,19 +16,12 @@ Here are some ideas to get you started:
 -->
 --- 
 
-I am a Mathematics and Computer Science student based in Montreal, Canada.
+I recently graduated Magna cum laude from an honours Math and CS degree from Concordia University in Montreal, Canada. 
 
 I am interested in both the theoretical aspects of Computer Science, e.g., Machine Learning, Theory of Complexity, Design and Analysis of Algorithms
-and the practical aspects, e.g., Software Design and Programming Paradigms. 
-
----
-
-**Current project:**
-
-- [Reinforcement learning for snake](https://github.com/fredpell1/snake-RL)
-
+and the practical aspects like Software Design, Programming Languages, and Programming Paradigms. 
 
 --- 
-
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: fredericpelletier7@gmail.com
 - ⚡ Fun fact: I am a big football fan. Go Lions!
