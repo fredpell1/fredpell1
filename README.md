@@ -23,5 +23,6 @@ and the practical aspects like Software Design, Programming Languages, and Progr
 
 --- 
 - 🌱 I’m currently learning C++
+- 🔭 I’m currently working on [yadll](https://github.com/fredpell1/YADLL)
 - 📫 How to reach me: fredericpelletier7@gmail.com
 - ⚡ Fun fact: I am a big football fan. Go Lions!
