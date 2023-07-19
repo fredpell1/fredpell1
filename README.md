@@ -22,7 +22,7 @@ I am interested in both the theoretical aspects of Computer Science, e.g., Machi
 and the practical aspects like Software Design, Programming Languages, and Programming Paradigms. 
 
 --- 
-- 🌱 I’m currently learning C++ and doing [nand2tetris](https://www.nand2tetris.org/)
+- 🌱 I’m currently learning [performance engineering](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 - 🔭 I’m currently working on [yadll](https://github.com/fredpell1/YADLL)
 - 📫 How to reach me: fredericpelletier7@gmail.com
 - ⚡ Fun fact: I am a big football fan. Go Lions!
