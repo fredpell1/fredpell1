@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 --- 
+I am a software developer and financial engineering grad student at HEC Montreal. 
+Before that, I was an honours math and cs student at Concordia University, where I graduated Magna cum laude.
 
-I recently graduated Magna cum laude from an honours Math and CS degree from Concordia University in Montreal, Canada. 
-
-I am interested in both the theoretical aspects of Computer Science, e.g., Machine Learning, Theory of Complexity, Design and Analysis of Algorithms
-and the practical aspects like Software Design, Programming Languages, and Programming Paradigms. 
+I'm interested in everything computer related, with a soft spot for subjects where math pops out.
 
 --- 
-- 🌱 I’m currently learning [performance engineering](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
-- 🔭 I’m currently working on [yadll](https://github.com/fredpell1/YADLL)
-- 📫 How to reach me: fredericpelletier7@gmail.com
-- ⚡ Fun fact: I am a big football fan. Go Lions!
